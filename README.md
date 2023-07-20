@@ -18,3 +18,4 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial.
 let's see how it works
 new stuff happend on the master branch
+ok right
