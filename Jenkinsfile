@@ -29,6 +29,7 @@ pipeline {
                 }
             }
         }
+<<<<<<< HEAD
         stage('Deliver') {
             agent any
             environment {
@@ -38,6 +39,8 @@ pipeline {
         }
 
 
+=======
+>>>>>>> parent of 4a4a466 (Add 'Deliver' stage)
     }
 }
 
